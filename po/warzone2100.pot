@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: warzone2100\n"
 "Report-Msgid-Bugs-To: warzone2100-project@lists.sourceforge.net\n"
-"POT-Creation-Date: 2021-02-28 03:22+0000\n"
+"POT-Creation-Date: 2021-02-28 18:11+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18344,19 +18344,19 @@ msgid "Get Update Now"
 msgstr ""
 
 #. TRANSLATORS: Printed when compiling with uncommitted changes
-#: src/version.cpp:186
+#: src/version.cpp:189
 msgid " (modified locally)"
 msgstr ""
 
 #. TRANSLATORS: Printed in Debug builds
-#: src/version.cpp:193
+#: src/version.cpp:196
 msgid " - DEBUG"
 msgstr ""
 
 #. TRANSLATORS: This string looks as follows when expanded.
 #. "Version: <version name/number>, <working copy state>,
 #. Built: <BUILD DATE><BUILD TYPE>"
-#: src/version.cpp:202
+#: src/version.cpp:205
 #, c-format
 msgid "Version: %s,%s Built: %s%s"
 msgstr ""
